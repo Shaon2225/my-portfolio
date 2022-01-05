@@ -1,0 +1,38 @@
+body{
+    background-color: #dcf5ff;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.header{
+    display: flex;
+}
+
+.header h1 {
+    font-weight: 900;
+    font-size: 50px;
+}
+
+.author-name {
+    color: tomato;
+    top: 500px;
+}
+.header-container{
+    margin: 3%;
+}
+
+.linkedin-link{
+    text-decoration: none;
+    font-weight: 600;
+    color: whitesmoke;
+    background-image: linear-gradient(orange,tomato);
+    padding: 1%;
+    border-radius: 15px;
+    margin-top: 100px;
+}
+.header img {
+    border-bottom: 3px solid gray;
+    box-shadow: 5px 5px 2px gray;
+    border-radius: 50%;
+    width: 50%;
+    height: 30%%;
+}
